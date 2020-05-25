@@ -1,0 +1,4 @@
+﻿  Principal.cpp
+C:\Users\javie\source\repos\Practica_2\Practica_2\Principal.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\javie\source\repos\Practica_2\Practica_2\Principal.cpp(59,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Practica_2.vcxproj -> C:\Users\javie\source\repos\Practica_2\x64\Debug\Practica_2.exe
